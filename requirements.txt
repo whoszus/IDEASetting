@@ -3,5 +3,5 @@ beautifulsoup4
 itchat
 apscheduler
 lxml
-yaml
+PyYAML
 chatterbot
