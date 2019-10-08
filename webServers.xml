@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f3b2af2a-6967-4cbf-8e59-6d94629cf2fe" name="root@172.16.101.131:22" url="http:///">
+        <fileTransfer host="172.16.101.131" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
