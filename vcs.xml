@@ -6,9 +6,13 @@
           <option name="url" value="https://github.com/KU4NG/OPMS_v3.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/whoszus/You-snooze-You-win.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspaces/SIAT/机房" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspaces/Opensources" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
