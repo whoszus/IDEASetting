@@ -1,7 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="128_&lt;module 'time' (built-in)&gt;" type="PLAIN_TEXT" />
+      <mapping pattern="WcArticleCrawler" type="Python" />
     </extensionMap>
   </component>
 </application>
