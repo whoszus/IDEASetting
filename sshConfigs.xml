@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="Gpu-224-docker" id="3c80b7ec-3d68-4143-a76d-d5f049ad9bce" port="29008" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="OPEN_SSH" host="127.0.0.1" id="3c80b7ec-3d68-4143-a76d-d5f049ad9bce" port="29008" nameFormat="DESCRIPTIVE" username="root" />
     </configs>
   </component>
 </application>

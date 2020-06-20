@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d5c5448c-8b8e-4272-bd0c-192eae40f0ea" name="root@127.0.0.1:29008" url="http:///">
+        <fileTransfer accessType="SFTP" host="127.0.0.1" port="29008" sshConfigId="e36fc925-9472-4740-9871-ccf2f158df60" sshConfig="root@127.0.0.1:29008 agent" authAgent="true" />
+      </webServer>
+    </option>
+  </component>
+</application>
