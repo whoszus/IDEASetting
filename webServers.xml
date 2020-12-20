@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="d5c5448c-8b8e-4272-bd0c-192eae40f0ea" name="root@127.0.0.1:29008" url="http:///">
-        <fileTransfer accessType="SFTP" host="127.0.0.1" port="29008" sshConfigId="e36fc925-9472-4740-9871-ccf2f158df60" sshConfig="root@127.0.0.1:29008 agent" authAgent="true" />
+      <webServer id="2375f84c-1e23-4121-8574-1a4649dd4a78" name="root@cn-zj-dx-2.sakurafrp.com:38891" url="http:///">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="cn-zj-dx-2.sakurafrp.com" port="38891" sshConfigId="d30e8ed8-d5d7-445a-bdc9-30dc537b4895" sshConfig="root@cn-zj-dx-2.sakurafrp.com:38891 agent" authAgent="true" />
       </webServer>
     </option>
   </component>
