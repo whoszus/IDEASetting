@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="128_&lt;module 'time' (built-in)&gt;" type="PLAIN_TEXT" />
+      <mapping pattern="MultinomialNB-general" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-openfaas-python" type="PLAIN_TEXT" />
       <mapping pattern="WcArticleCrawler" type="Python" />
     </extensionMap>
