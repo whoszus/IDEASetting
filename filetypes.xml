@@ -1,11 +1,11 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="128_&lt;module 'time' (built-in)&gt;" type="PLAIN_TEXT" />
-      <mapping pattern="MultinomialNB-general" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-openfaas-python" type="PLAIN_TEXT" />
+      <mapping pattern="MultinomialNB-general" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="MultinomialNB-general-d" type="PLAIN_TEXT" />
+      <mapping pattern="128_&lt;module 'time' (built-in)&gt;" type="PLAIN_TEXT" />
       <mapping pattern="WcArticleCrawler" type="Python" />
     </extensionMap>
   </component>
